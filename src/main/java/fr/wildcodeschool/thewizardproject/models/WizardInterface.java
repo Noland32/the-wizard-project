@@ -1,4 +1,4 @@
-package fr.wildcodeschool.thewizardproject;
+package fr.wildcodeschool.thewizardproject.models;
 
 public interface WizardInterface {
 	
